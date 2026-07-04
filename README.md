@@ -1,1 +1,0 @@
-# Otimizador_Financeiro
