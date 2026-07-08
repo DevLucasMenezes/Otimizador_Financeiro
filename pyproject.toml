@@ -1,7 +1,0 @@
-[project]
-name = "otimizador-financeiro"
-version = "0.1.0"
-dependencies = []
-
-[tool.vercel]
-entrypoint = "ENADE:app"
